@@ -1,8 +1,8 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+My name is Adrian, and I am a veteran that is college educated in Cybersecurity; interested in all things cybersecurity!
+- 🔭 I’m currently working on Security+ 
+- 🌱 I’m currently learning on showcasing my labs
+- 📫 How to reach me: adrian.s.valdes@gmail.com
 <!--
 **CipherGhosttech/CipherGhosttech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
